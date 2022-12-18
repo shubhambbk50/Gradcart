@@ -1,0 +1,83 @@
+/* Gratecarter portion */
+body{
+  background: url("https://i.pinimg.com/originals/0d/c0/65/0dc0659a172858154b256b6f9ecd1908.jpg");
+}
+.top{
+  color: black;
+  text-align: center;
+  background-color: #FFE15D;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+}
+
+   /* Div of the top conyainers */
+.topnav{
+  background-color: #483838;
+  padding-top: 0px;
+  font-size: -2px;
+  position: absolute;
+  padding: 3px;
+}
+.btn:hover{
+  color: white;
+}
+.topnav-right {
+  float: right;
+  font-size: 10px;
+}
+.icon:hover{
+  color: #fff;
+}
+.bichme{
+  margin: 0 auto;
+  margin-top: 10rem;
+}
+.upper{
+  font-size: 10%;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  color: white;
+}
+.Video-Editing{
+  float: left;
+  margin-right: 30px;
+  text-align: left;
+}
+.coding{
+  float: right;
+  margin-left: 10px;
+  margin-top: 10px;
+
+}
+.sell{
+  /* margin-top: 10px;  */
+
+}
+h3{
+  font-size: 20rem;
+  font-family: sans-serif;
+}
+/* form */
+.details-form{
+  margin: auto;
+  width: 50%;
+  margin-top: 10%;
+}
+.form-div{
+  border: 2px solid yellow;
+  border-radius: 18px;
+  padding: 18px;
+}
+.form-group{
+  color: white;
+}
